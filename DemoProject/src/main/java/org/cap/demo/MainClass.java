@@ -9,6 +9,7 @@ public class MainClass {
 	}
 	public static void greetings(){
 		System.out.println("Hello welcome to main");
+		System.out.println("Code modified for the first time");
 	}
 
 }
